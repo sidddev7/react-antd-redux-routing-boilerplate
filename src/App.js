@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import { Routes, Route, Link } from "react-router-dom";
 import Home from "./containers/module1/components/home";
-
+import "antd/dist/antd.css";
 function App() {
   return (
     <div className="App">
